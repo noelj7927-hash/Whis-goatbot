@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "shadowrouge45@gmail.com",
+    "password": "reveladi",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,16 +17,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "",
-    ""
+    "61571952600731"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Your_Bot_Name",
-  "prefix": "/",
+  "nickNameBot": "✘.sʜᴀᴅᴡᴏ ぐき",
+  "prefix": "*",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
